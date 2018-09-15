@@ -1,0 +1,10 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.6.0",
+    "libraryName": "spfx-angular-elements-spfx",
+    "libraryId": "cb7373ae-307c-4a64-bff2-dc7bebe41ed3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "isCreatingSolution": true
+  }
+}
